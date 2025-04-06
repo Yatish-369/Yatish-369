@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/the_yatish_raj" target="blank"><img src="https://img.shields.io/twitter/follow/the_yatish_raj?logo=twitter&style=for-the-badge" alt="the_yatish_raj" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently working on several projects and ideas
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://drive.google.com/file/d/1irkssPgRuYz-XByw8WUH79xvFMWSujKQ/view?usp=drive_link)
+- 👨‍💻 All of my designing projects are available at [Portfolio](https://drive.google.com/file/d/1irkssPgRuYz-XByw8WUH79xvFMWSujKQ/view?usp=drive_link)
 
-- 💬 Ask me about **UI/UX designing**
+- 💬 Ask me about UI/UX designing, Team management, leadership, and my projects. 
 
 - 📫 How to reach me **yatishraj2003@gmail.com**
 
@@ -45,7 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ejs/ejs-original.svg" height="40" alt="ejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" style="filter: invert(1);" />
+
 </p>
 
 <br clear="both">
