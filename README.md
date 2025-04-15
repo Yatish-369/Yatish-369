@@ -56,7 +56,7 @@
 </p>
 
 ### ✍️ Quote I live by
-![2124533545-50-most-exclusive-technology-inspirational-quotes](https://github.com/user-attachments/assets/d0b769ae-44ec-422c-bd4d-7aabfcfd3bf8)
+![ChatGPT Image Apr 15, 2025, 09_05_20 PM](https://github.com/user-attachments/assets/9dcc08d9-4958-40cb-b470-2c55406fe09d)
 
 
 <br clear="both">
