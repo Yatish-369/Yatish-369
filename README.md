@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yatishraj2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BnHLpQRh81TeH-upySjR7hI-t-Gse9Oy/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1_PTAkpphVJWWlZZAkaWRyDMHjPsno2-I/view?usp=drive_link)
 
 - ⚡ Fun fact **The Universe is 13.8 billion years old.**
 
