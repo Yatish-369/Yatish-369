@@ -47,8 +47,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" style="filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva" style="margin-right: 10px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="excel logo" title="Microsoft Excel" style="margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" style="margin-right: 10px;" />
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="power bi logo" title="Power BI" style="margin-right: 10px;" />
 
 </p>
+
+### ✍️ Quote I live by
+![2124533545-50-most-exclusive-technology-inspirational-quotes](https://github.com/user-attachments/assets/d0b769ae-44ec-422c-bd4d-7aabfcfd3bf8)
+
 
 <br clear="both">
 
