@@ -61,10 +61,6 @@
 [![Yatish's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yatish-369&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yatish-369&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
-
 
 ## 🏆 GitHub Trophies
 
