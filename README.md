@@ -55,9 +55,18 @@
 
 </p>
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yatish-369&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yatish-369&theme=gruvbox&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### ✍️ Quote I live by
 ![ChatGPT Image Apr 15, 2025, 09_05_20 PM](https://github.com/user-attachments/assets/9dcc08d9-4958-40cb-b470-2c55406fe09d)
-
 
 <br clear="both">
 
