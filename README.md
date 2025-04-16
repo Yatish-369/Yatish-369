@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Yatish Raj! 👋</h1>
-<h3 align="center">🎓 3rd Year BTech CSE Student | 🚀 Tech Explorer | 🎯 Always Curious  /h3>
+<h3 align="center">🎓 3rd Year BTech CSE Student | 🚀 Tech Explorer | 🎯 Always Curious  </h3>
 
 <p align="center">Passionate about turning innovative ideas into reality through design and technology. With a strong foundation in Computer Science and an eye for aesthetics, I thrive at the intersection of creativity and logic. Whether it's crafting seamless user experiences, diving into AI-driven solutions, or exploring cloud computing, I'm always up for a challenge! Let's build something amazing together. 🚀</p>
 
