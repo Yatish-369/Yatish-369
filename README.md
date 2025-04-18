@@ -78,6 +78,7 @@
 
 
 ### ✍️ Quote I live by
+
 ![ChatGPT Image Apr 15, 2025, 09_05_20 PM](https://github.com/user-attachments/assets/9dcc08d9-4958-40cb-b470-2c55406fe09d)
 
 <br clear="both">
