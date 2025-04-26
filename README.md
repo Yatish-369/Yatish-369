@@ -20,10 +20,6 @@
 *Let’s build something amazing together! 🚀*
 </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yatish-369&label=Profile%20views&color=0e75b6&style=flat" alt="Yatish-369" />
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/the_yatish_raj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
