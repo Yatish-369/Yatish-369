@@ -14,7 +14,7 @@
 - 📫 How to reach me **yatishraj2003@gmail.com**
 - ☕ Coffee + Code = 💙  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15KdiMx-40Xr7YHAZ1qbRmL4XZnYj1VUK/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/15KdiMx-40Xr7YHAZ1qbRmL4XZnYj1VUK/view?usp=drive_link](https://drive.google.com/file/d/1nWYNg3JXLBYPxYyUyPQbqnIivuSoMqNj/view?usp=sharing))
 - 🧘‍♂️ "Stay curious, stay building."
 
 *Let’s build something amazing together! 🚀*
